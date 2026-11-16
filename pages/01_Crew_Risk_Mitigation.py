@@ -22,7 +22,7 @@ def render_risk_mitigation_page():
   st.markdown("---")
 
   # 1. Interactive Predictive Model: Mission Duration vs. Cognitive Risk (Top)
-  st.subheader("🔮 Predictive Mission Duration & Risk Forecaster")
+  st.subheader("Predictive Mission Duration & Risk Forecaster")
   st.markdown(
       "Adjust the target mission week to project cumulative cognitive"
       " error-proneness and operational risk based on the OSD-618 trajectory."
@@ -95,7 +95,7 @@ This predictive model is provided as an interactive framework illustrating how m
   st.markdown("---")
 
   # 2. Timeline Anchor Summary Table
-  st.subheader("📅 OSD-618 Temporal Stress Progression")
+  st.subheader("OSD-618 Temporal Stress Progression")
   st.markdown(
       "Empirical anchor points extracted from NASA OSD-618 experimental"
       " timelines:"
@@ -132,13 +132,11 @@ This predictive model is provided as an interactive framework illustrating how m
 
   st.markdown("""
 * **1. Artificial Gravity & Countermeasure Protocols:** 
-  * Mitigate fluid shifts and vestibular degradation caused by hindlimb unloading through daily short-radius centrifugation or resistive exercise routines.
+  * Perform resistive exercise routines.
 * **2. Cognitive Training & Virtual Reality (VR) Navigation:** 
-  * Deploy weekly VR spatial memory drills (simulating RAWM-style maze navigation) during transit phases to maintain hippocampal function and combat confinement-induced cognitive atrophy.
+  * Listen to musin and solve puzzles. Use VR to feel connected to nature.
 * **3. Environmental & Social Enrichment:** 
-  * Combat social isolation (identified at Week 34) through scheduled crew-wide collaborative tasks, shared recreational periods, and structured communication protocols with Earth support.
-* **4. Radiation Shielding & Pharmacological Defense:** 
-  * Establish designated storm-shelter bunking zones during solar particle events and explore antioxidant radioprotectant countermeasures to preserve cognitive performance against Galactic Cosmic Radiation (GCR).
+  * Talk to a crew-mate. Play pictionary.
 """)
 
 

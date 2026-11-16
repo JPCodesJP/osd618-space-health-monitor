@@ -19,7 +19,7 @@ st.set_page_config(
 df = load_data('osd_618_nor_cleaned_master.csv')
 if df is None:
   st.error(
-      '⚠️ Processed NOR dataset `osd_618_nor_cleaned_master.csv` not found!'
+      'Processed NOR dataset `osd_618_nor_cleaned_master.csv` not found!'
       ' Please run `clean_correlate_nor.py` first.'
   )
   st.stop()
@@ -113,7 +113,7 @@ if selected_metric and group_col:
   )
   st.plotly_chart(fig_box, use_container_width=True)
 
-  st.markdown('### 🧠 Plain-English Insight & Interpretation')
+  st.markdown('### Plain-English Insight & Interpretation')
   info = get_metric_explanation(selected_metric)
   group_stats = (
       filtered_df.groupby(group_col)[selected_metric]
@@ -133,7 +133,7 @@ if selected_metric and group_col:
     )
 
     st.success(f"""
-        ### 🎯 Key Takeaway
+        ### Key Takeaway
         * **The `{g2_name}` group averaged **{abs(diff):.3f} {direction}** compared to the `{g1_name}` group.**
         * **What a higher score means:** {info['meaning']}
         

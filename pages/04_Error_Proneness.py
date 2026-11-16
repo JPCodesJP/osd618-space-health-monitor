@@ -111,7 +111,7 @@ def render_rawm_page():
   st.markdown("---")
 
   # 2. Learning Curve Visualization (Bottom Chart)
-  st.subheader("📈 Learning Curve: Error Progression Across 6 Trials")
+  st.subheader("Learning Curve: Error Progression Across 6 Trials")
   trial_cols = [
       "RAWM_D1_Trial 1_Errors",
       "RAWM_D1_Trial 2_Errors",

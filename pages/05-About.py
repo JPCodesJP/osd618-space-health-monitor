@@ -7,13 +7,13 @@ import streamlit as st
 from utils import render_study_subtitle
 
 # Page Title & Subtitle
-st.title("ℹ️ About OSD-618: System Philosophy & Attribution")
+st.title("ℹAbout OSD-618: System Philosophy & Attribution")
 render_study_subtitle()
 
 st.markdown("---")
 
 # 1. Executive Summary & Core Philosophy
-st.subheader("🧠 The Operational Imperative: Autonomous Deep Space")
+st.subheader("The Operational Imperative: Autonomous Deep Space")
 st.markdown("""
 During long-duration crewed transit missions (such as a journey to Mars), **real-time communication with Earth is physically impossible** due to light-speed radio delays ranging from 4 to 24 minutes each way. 
 
@@ -27,7 +27,7 @@ col_left, col_right = st.columns(2)
 
 with col_left:
   st.markdown("""
-    ### 🧪 Underlying NASA Dataset (OSD-618)
+    ### Underlying NASA Dataset (OSD-618)
     Our predictive models and behavioral modules are grounded in empirical multi-stressor rodent study data, capturing the synergistic impacts of:
     * **Altered Gravity:** Hindlimb unloading (HU) simulating fluid shifts.
     * **Radiation:** Ionizing radiation fields mimicking Galactic Cosmic Rays (GCR).
@@ -36,7 +36,7 @@ with col_left:
 
 with col_right:
   st.markdown("""
-    ### 🛡️ Core Dashboard Modules
+    ### Core Dashboard Modules
     Use the sidebar to navigate across the system architecture:
     * **01 - Isolation & Confinement Impact:** Evaluates social approach and sociability deficits (Week 34).
     * **02 - Cognitive Impact (NOR):** Tracks novelty recognition memory decay (Week 39).
@@ -47,7 +47,7 @@ with col_right:
 st.markdown("---")
 
 # 3. Hackathon Context & Attributions
-st.subheader("🏆 Hackathon Project Context")
+st.subheader("Hackathon Project Context")
 st.markdown("""
 * **Event:** NASA Space Apps Challenge
 * **Primary Objective:** Transform raw Open Science Data Repository (OSDR) data into actionable edge-computing tools for deep-space missions.
@@ -56,6 +56,6 @@ st.markdown("""
 
 st.markdown("---")
 st.caption(
-    "🚀 Built for the NASA Space Apps Challenge | Powered by NASA OSDR OSD-618"
+    "Built for the NASA Space Apps Challenge | Powered by NASA OSDR OSD-618"
     " open science datasets & Streamlit edge analytics."
 )

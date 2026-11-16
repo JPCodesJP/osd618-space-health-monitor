@@ -128,7 +128,7 @@ def main():
   st.markdown("---")
 
   # 2. End-to-End System Architecture Flow Diagram
-  st.subheader("🏛️ System Architecture Design & Operational Pipeline")
+  st.subheader("System Architecture Design & Operational Pipeline")
   st.markdown(
       "Our autonomous health monitoring framework follows a rigorous 6-stage"
       " progression—transitioning from ground-based control data collection"
@@ -169,7 +169,7 @@ def main():
             """)
 
   with arch_tab2:
-    st.markdown("### 🚀 Phase 2: Mission Deployment Phase")
+    st.markdown("### Phase 2: Mission Deployment Phase")
 
     col_s4, col_s5, col_s6 = st.columns(3)
 
@@ -196,7 +196,7 @@ def main():
 
   st.markdown("---")
   st.caption(
-      "🚀 Built for the NASA Space Apps Challenge | Powered by NASA OSDR OSD-618"
+      "Built for the NASA Space Apps Challenge | Powered by NASA OSDR OSD-618"
       " open science datasets & Streamlit edge analytics."
   )
 

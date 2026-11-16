@@ -83,7 +83,7 @@ if selected_metric and group_col:
   )
   st.plotly_chart(fig_box, use_container_width=True)
 
-  st.markdown('### 🧠 Plain-English Insight & Interpretation')
+  st.markdown('### Plain-English Insight & Interpretation')
   info = get_metric_explanation(selected_metric)
   group_stats = (
       filtered_df.groupby(group_col)[selected_metric]
@@ -103,7 +103,7 @@ if selected_metric and group_col:
     )
 
     st.success(f"""
-        ### 🎯 Key Takeaway
+        ### Key Takeaway
         * **The `{g2_name}` group averaged **{abs(diff):.3f} {direction}** compared to the `{g1_name}` group.**
         * **What a higher score means:** {info['meaning']}
         
