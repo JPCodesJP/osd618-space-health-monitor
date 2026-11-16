@@ -66,7 +66,7 @@ def render_rawm_page():
   st.markdown("---")
 
   # 1. Cumulative Stress Score vs. Cognitive Errors (Top Chart)
-  st.subheader("⚡ Cumulative Stress Score vs. Cognitive Errors")
+  st.subheader("Cumulative Stress Score vs. Cognitive Errors")
   st.markdown(
       "Verifying the core hypothesis that higher cumulative stress scores"
       " correlate with increased error-proneness."

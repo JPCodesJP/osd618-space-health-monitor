@@ -10,7 +10,7 @@ from utils import load_rawm_master_data, render_study_subtitle
 
 
 def render_risk_mitigation_page():
-  st.title("🛡️ Crew Risk Mitigation & Predictive Timeline")
+  st.title("Crew Risk Mitigation & Predictive Timeline")
   render_study_subtitle()
 
   st.markdown("""
@@ -80,7 +80,7 @@ def render_risk_mitigation_page():
 
   # Mathematical Explanation & Hackathon Disclaimer
   st.info(f"""
-**📐 Mathematical Model Breakdown:**
+**Mathematical Model Breakdown:**
 * **Model Type:** Ordinary Least Squares (OLS) Linear Regression (`numpy.polyfit`).
 * **Anchor Points:** Fitted across empirical OSD-618 milestones (**Week 34** Social Isolation $\rightarrow$ **Week 39** NOR Cognition $\rightarrow$ **Week 42** RAWM Error-Proneness).
 * **Equation:** $\\text{{Risk Multiplier}} = {slope:.4f} \\times (\\text{{Mission Week}}) + {intercept:.4f}$
@@ -123,7 +123,7 @@ This predictive model is provided as an interactive framework illustrating how m
   st.markdown("---")
 
   # 3. Actionable Crew Risk Mitigation Countermeasures
-  st.subheader("🛡️ Recommended Operational Countermeasures")
+  st.subheader("Recommended Operational Countermeasures")
   st.markdown(
       "To mitigate the projected cognitive decline and spatial error-proneness"
       " identified in OSD-618, mission architects should implement the"

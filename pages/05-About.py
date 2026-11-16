@@ -7,7 +7,7 @@ import streamlit as st
 from utils import render_study_subtitle
 
 # Page Title & Subtitle
-st.title("ℹAbout OSD-618: System Philosophy & Attribution")
+st.title("About OSD-618: System Philosophy & Attribution")
 render_study_subtitle()
 
 st.markdown("---")
