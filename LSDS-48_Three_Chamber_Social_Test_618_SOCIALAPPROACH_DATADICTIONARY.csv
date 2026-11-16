@@ -1,0 +1,52 @@
+﻿Animal_ID,Animal identification number throughout experiment
+Exp_Cage_No BNL,experimental cage number at Brookhaven National Laboratory
+Sex,sex of the animal
+Ms_strain,mouse strain
+No_cagemates,number of cagemates
+NL/HU,normal loading or hindlimb unloading condition
+Housing_code,"code for housing condition: 0 is group housed, normally loaded, 1 is isolation housing, normally loaded, 2 is isolation housing, hindlimb unloaded"
+GCR_cGy,dose in centigray of Galactic Cosmic Radiation
+Type_of_GCR,Type of Galactic Cosmic Radiation (5 ion GCR is the simplified GCR simulation standard at the NASA Space Radiation Laboratory)
+Diet,Mouse chow diet
+NSRL_Study,NASA Space Radiation Laboratory campaign
+Days_HU,total days in hindlimb unloading
+Total_reloading_events,number of accidental reloading events recorded during the continuous hindlimb unloading period
+Max_reloaded_time,estimated total time reloaded due to unexpected reloading events
+additional_handling_length_weeks,"handing prior to behavioral testing, but after any handling necessary for Brookhaven National Laboratory experimental procedures"
+Behavior_cleaning_solution,cleaning solution used to clean behavioral apparatuses
+STCT_lightsource,social three chamber test light source (aka three chamber social approach task)
+STCT_invsex,social three chamber investigator sex
+Social_Habituation_distance_cm,"Three Chamber Social Approach Task, Habituation phase (1st phase), total distance traveled"
+Social_Habituation_velocity,"Three Chamber Social Approach Task, Habituation phase,average velocity"
+Sociability_Distance_3min,"Three Chamber Social Approach Task, Sociability phase (2nd phase), total distance traveled in the first 3 minutes of the task"
+Sociability_Velocity_3min,"Three Chamber Social Approach Task, Sociability phase (2nd phase), average velocity in the first 3 minutes of the task"
+Sociability_Distance_5min,"Three Chamber Social Approach Task, Sociability phase (2nd phase), total distance traveled in the first 5 minutes of the task"
+Sociability_Velocity_5min,"Three Chamber Social Approach Task, Sociability phase (2nd phase), average velocity in the first 5 minutes of the task"
+Sociability_Ms_3min,"Three Chamber Social Approach Task, Sociability phase (2nd phase), total time spent with the conspecific mouse in the first 3 minutes of the task"
+Sociability_Cg_3min,"Three Chamber Social Approach Task, Sociability phase (2nd phase), total time spent with the empty cage in the first 3 minutes of the task"
+Sociability_TotalTime_3min,"Three Chamber Social Approach Task, Sociability phase (2nd phase), total time spent with the conspecific mouse and the empty cage in the first 3 minutes of the task"
+Sociability_percent_Ms_3min,"Three Chamber Social Approach Task, Sociability phase (2nd phase), percent time spent with the conspecific mouse out of total time spent with the conspecific mouse plus the empty cage in the first 3 minutes of the task"
+Sociability_percent_Cg_3min,"Three Chamber Social Approach Task, Sociability phase (2nd phase), percent time spent with the empty cage out of total time spent with the conspecific mouse plus the empty cage in the first 3 minutes of the task"
+Sociability_ratio_3min,"Three Chamber Social Approach Task, Sociability phase (2nd phase), ratio of time spent with the conspecific mouse to time spent with the empty cage in the first 3 minutes of the task"
+Sociability_Ms_5min,"Three Chamber Social Approach Task, Sociability phase (2nd phase), total time spent with the conspecific mouse in the first 5 minutes of the task"
+Sociability_Cg_5min,"Three Chamber Social Approach Task, Sociability phase (2nd phase), total time spent with the empty cage in the first 5 minutes of the task"
+Sociability_TotalTime_5min,"Three Chamber Social Approach Task, Sociability phase (2nd phase), total time spent with the conspecific mouse and the empty cage in the first 5 minutes of the task"
+Sociability_percent_Ms_5min,"Three Chamber Social Approach Task, Sociability phase (2nd phase), percent time spent with the conspecific mouse out of total time spent with the conspecific mouse plus the empty cage in the first 5 minutes of the task"
+Sociability_percent_Cg_5min,"Three Chamber Social Approach Task, Sociability phase (2nd phase), percent time spent with the empty cage out of total time spent with the conspecific mouse plus the empty cage in the first 3 minutes of the task"
+Sociability_ratio_5min,"Three Chamber Social Approach Task, Sociability phase (2nd phase), ratio of time spent with the conspecific mouse to time spent with the empty cage in the first 5 minutes of the task"
+SocialMemory_Distance_3min,"Three Chamber Social Approach Task, Social Memory phase (3rd phase), total distance traveled in the first 3 minutes of the task"
+SocialMemory_Velocity_3min,"Three Chamber Social Approach Task, Social Memory phase (3rd phase), average velocity in the first 3 minutes of the task"
+SocialMemory_Distance_5min,"Three Chamber Social Approach Task, Social Memory phase (3rd phase), total distance traveled in the first 5 minutes of the task"
+SocialMemory_Velocity_5min,"Three Chamber Social Approach Task, Social Memory phase (3rd phase), average velocity in the first 5 minutes of the task"
+SocialMemory_Nv_3min,"Three Chamber Social Approach Task, Social Memory phase (3rd phase), total time spent with the unfamiliar mouse in the first 3 minutes of the task"
+SocialMemory_Fm_3min,"Three Chamber Social Approach Task, Social Memory phase (3rd phase), total time spent with the familiar mouse in the first 3 minutes of the task"
+SocialMemory_TotalTime_3min,"Three Chamber Social Approach Task, Social Memory phase (3rd phase), total time spent with the unfamiliar mosue plus the familiar mouse in the first 3 minutes of the task"
+SocialMemory_percent_Nv_3min,"Three Chamber Social Approach Task, Social Memory phase (3rd phase), percent time spent with the unfamiliar mouse out of total time spent with the unfamiliar mouse plus the familiar mouse in the first 3 minutes of the task"
+SocialMemory_percent_Fm_3min,"Three Chamber Social Approach Task, Social Memory phase (3rd phase), percent time spent with the familiar mouse out of total time spent with the unfamiliar mouse plus the familiar mouse in the first 3 minutes of the task"
+SocialMemory_ratio_3min,"Three Chamber Social Approach Task, Social Memory phase (3rd phase), ratio of time spent with the unfamiliar mouse to time spent with the familiar mouse in the first 3 minutes of the task"
+SocialMemory_Nv_5min,"Three Chamber Social Approach Task, Social Memory phase (3rd phase), total time spent with the unfamiliar mouse in the first 5 minutes of the task"
+SocialMemory_Fm_5min,"Three Chamber Social Approach Task, Social Memory phase (3rd phase), total time spent with the familiar mouse in the first 5 minutes of the task"
+SocialMemory_TotalTime_5min,"Three Chamber Social Approach Task, Social Memory phase (3rd phase), total time spent with the unfamiliar mosue plus the familiar mouse in the first 5 minutes of the task"
+SocialMemory_percent_Nv_5min,"Three Chamber Social Approach Task, Social Memory phase (3rd phase), percent time spent with the unfamiliar mouse out of total time spent with the unfamiliar mouse plus the familiar mouse in the first 5 minutes of the task"
+SocialMemory_percent_Fm_5min,"Three Chamber Social Approach Task, Social Memory phase (3rd phase), percent time spent with the familiar mouse out of total time spent with the unfamiliar mouse plus the familiar mouse in the first 5 minutes of the task"
+SocialMemory_ratio_5min,"Three Chamber Social Approach Task, Social Memory phase (3rd phase), ratio of time spent with the unfamiliar mouse to time spent with the familiar mouse in the first 5 minutes of the task"

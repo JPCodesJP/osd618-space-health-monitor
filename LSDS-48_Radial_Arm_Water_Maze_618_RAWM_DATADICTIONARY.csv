@@ -1,0 +1,52 @@
+﻿Animal_ID,Animal identification number throughout experiment
+Exp_Cage_No BNL,experimental cage number at Brookhaven National Laboratory
+Sex,sex of the animal
+Ms_strain,mouse strain
+No_cagemates,number of cagemates
+NL/HU,normal loading or hindlimb unloading condition
+Housing_code,"code for housing condition: 0 is group housed, normally loaded, 1 is isolation housing, normally loaded, 2 is isolation housing, hindlimb unloaded"
+GCR_cGy,dose in centigray of Galactic Cosmic Radiation
+Type_of_GCR,Type of Galactic Cosmic Radiation (5 ion GCR is the simplified GCR simulation standard at the NASA Space Radiation Laboratory)
+Diet,Mouse chow diet
+NSRL_Study,NASA Space Radiation Laboratory campaign
+Days_HU,total days in hindlimb unloading
+Total_reloading_events,number of accidental reloading events recorded during the continuous hindlimb unloading period
+Max_reloaded_time,estimated total time reloaded due to unexpected reloading events
+additional_handling_length_weeks,"handing prior to behavioral testing, but after any handling necessary for Brookhaven National Laboratory experimental procedures"
+Behavior_cleaning_solution,cleaning solution used to clean behavioral apparatuses
+RAWM_lightsource,radial arm water maze light source
+RAWM_invsex,radial arm water maze investigator sex
+RAWM_D1_Trial 1_Errors,Radial Arm Water Maze Day 1 Trial 1 errors
+RAWM_D1_Trial 2_Errors,Radial Arm Water Maze Day 1 Trial 2 errors
+RAWM_D1_Trial 3_Errors,Radial Arm Water Maze Day 1 Trial 3 errors
+RAWM_D1_Trial 4_Errors,Radial Arm Water Maze Day 1 Trial 4 errors
+RAWM_D1_Trial 5_Errors,Radial Arm Water Maze Day 1 Trial 5 errors
+RAWM_D1_Trial 6_Errors,Radial Arm Water Maze Day 1 Trial 6 errors
+RAWM_D1_Trial1_duration,Radial Arm Water Maze Day 1 Trial 1 duration of trial
+RAWM_D1_Trial2_duration,Radial Arm Water Maze Day 1 Trial 2 duration of trial
+RAWM_D1_Trial3_duration,Radial Arm Water Maze Day 1 Trial 3 duration of trial
+RAWM_D1_Trial4_duration,Radial Arm Water Maze Day 1 Trial 4 duration of trial
+RAWM_D1_Trial5_duration,Radial Arm Water Maze Day 1 Trial 5 duration of trial
+RAWM_D1_Trial6_duration,Radial Arm Water Maze Day 1 Trial 6 duration of trial
+RAWM_D1_Trial1_velocity,Radial Arm Water Maze Day 1 Trial 1 average velocity during trial
+RAWM_D1_Trial2_velocity,Radial Arm Water Maze Day 1 Trial 2 average velocity during trial
+RAWM_D1_Trial3_velocity,Radial Arm Water Maze Day 1 Trial 3 average velocity during trial
+RAWM_D1_Trial4_velocity,Radial Arm Water Maze Day 1 Trial 4 average velocity during trial
+RAWM_D1_Trial5_velocity,Radial Arm Water Maze Day 1 Trial 5 average velocity during trial
+RAWM_D1_Trial6_velocity,Radial Arm Water Maze Day 1 Trial 6 average velocity during trial
+RAWM_D1_Block1_Errors,"Radial Arm Water Maze Day 1 average errors during block 1, consisting of trials 1, 2, and 3"
+RAWM_D1_Block1_duration,"Radial Arm Water Maze Day 1 average trial duration during block 1, consisting of trials trials 1, 2, and 3"
+RAWM_D1_Block1_velocity,"Radial Arm Water Maze Day 1 average velocity during block 1, consisting of trials 1, 2, and 3"
+RAWM_D1_Block2_Errors,"Radial Arm Water Maze Day 1 average errors during block 2, consisting of trials 4,5, and 6"
+RAWM_D1_Block2_duration,"Radial Arm Water Maze Day 1 average trial duration during block 2, consisting of trials trials 4,5, and 6"
+RAWM_D1_Block2_velocity,"Radial Arm Water Maze Day 1 average velocity during block 2, consisting of trials 4, 5, and 6"
+RAWM_D1_TotAvg_Errors,"Radial Arm Water Mae Day 1 Total average errors over trials 1,2,3,4,5, and 6"
+RAWM_D1_TotAvg_duration,"Radial Arm Water Mae Day 1 Total average duration over trials 1,2,3,4,5, and 6"
+RAWM_D1_TotAvg_velocity,"Radial Arm Water Mae Day 1 Total average velocity over trials 1,2,3,4,5, and 6"
+,
+,
+,
+,
+,
+,
+,

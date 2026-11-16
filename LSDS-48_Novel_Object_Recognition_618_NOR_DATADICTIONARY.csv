@@ -1,0 +1,52 @@
+﻿Animal_ID,Animal identification number throughout experiment
+Exp_Cage_No BNL,experimental cage number at Brookhaven National Laboratory
+Sex,sex of the animal
+Ms_strain,mouse strain
+No_cagemates,number of cagemates
+NL/HU,normal loading or hindlimb unloading condition
+Housing_code,"code for housing condition: 0 is group housed, normally loaded, 1 is isolation housing, normally loaded, 2 is isolation housing, hindlimb unloaded"
+GCR_cGy,dose in centigray of Galactic Cosmic Radiation
+Type_of_GCR,Type of Galactic Cosmic Radiation (5 ion GCR is the simplified GCR simulation standard at the NASA Space Radiation Laboratory)
+Diet,Mouse chow diet
+NSRL_Study,NASA Space Radiation Laboratory campaign
+Days_HU,total days in hindlimb unloading
+Total_reloading_events,number of accidental reloading events recorded during the continuous hindlimb unloading period
+Max_reloaded_time,estimated total time reloaded due to unexpected reloading events
+additional_handling_length_weeks,"handing prior to behavioral testing, but after any handling necessary for Brookhaven National Laboratory experimental procedures"
+Behavior_cleaning_solution,cleaning solution used to clean behavioral apparatuses
+NOR_lightsource,novel object recognition light source
+NOR_invsex,novel object recognition investigator sex
+NOR_Day3_Left,Time in seconds spent with the left object on day 3 of the Novel Object Recognition Task
+NOR_Day3_Right,Time in seconds spent with the right object on day 3 of the Novel Object Recognition Task
+NOR_Day3_TotalTime,Time in seconds spent with the right and left object on day 3 of the Novel Object Recognition Task
+NOR_Day3_per_Left,Percent time spent with the left object out of time with the right and left object on day 3 of the Novel Object Recognition Task
+NOR_Day3_per_Right,Percent time spent with the right object out of time with the right and left object on day 3 of the Novel Object Recognition Task
+NOR_Day4_3min_Nov,Time in seconds spent with the novel object in the first 3 minutes of the task on Day 4 of the Novel Object Recognition Task 
+NOR_Day4_3min_Fam,Time in seconds spent with the familiar object in the first 3 minutes of the task on Day 4 of the Novel Object Recognition Task 
+NOR_Day4_3min_Totaltime,Time in seconds spent with the novel and familiar object in the first 3 minutes of the task on Day 4 of the Novel Object Recognition Task 
+NOR_Day4_3min_per_Nov,Percent time spent with the novel object out of the novel and familiar object total time in the first 3 minutes of the task on Day 4 of the Novel Object Recognition Task 
+NOR_Day4_3min_per_Fam,Percent time spent with the familiar object out of the novel and familiar object total time in the first 3 minutes of the task on Day 4 of the Novel Object Recognition Task 
+NOR_Day4_3min_DI,Difference between the time spent with the novel object and familiar object divided by the total time spent with the novel and familiar object in the first 3 minutes of the task on Day 4 of the Novel Object Recognition Task 
+NOR_Day4_5min_Nov,Time in seconds spent with the novel object in the first 5 minutes of the task on Day 4 of the Novel Object Recognition Task 
+NOR_Day4_5min_Fam,Time in seconds spent with the familiar object in the first 5 minutes of the task on Day 4 of the Novel Object Recognition Task 
+NOR_Day4_5min_Totaltime,Time in seconds spent with the novel and familiar object in the first 5 minutes of the task on Day 4 of the Novel Object Recognition Task 
+NOR_Day4_5min_per_Nov,Percent time spent with the novel object out of the novel and familiar object total time in the first 5 minutes of the task on Day 4 of the Novel Object Recognition Task 
+NOR_Day4_5min_per_Fam,Percent time spent with the familiar object out of the novel and familiar object total time in the first 5 minutes of the task on Day 4 of the Novel Object Recognition Task 
+NOR_Day4_5min_DI,Difference between the time spent with the novel object and familiar object divided by the total time spent with the novel and familiar object in the first 5 minutes of the task on Day 4 of the Novel Object Recognition Task 
+NOR_Day4_5min_Velocity,Average velocity in the first 5 minutes of Day 4 of the Novel Object Recognition Task
+NOR_Day4_5min_Distance,Total distance traveled in the first 5 minutes of Day 4 of the Novel Object Recognition Task
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,

@@ -1,0 +1,13 @@
+# Python & Virtual Environments
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+
+# Streamlit Cache & Config
+.streamlit/secrets.toml
+.idea/
+.vscode/
+.DS_Store
